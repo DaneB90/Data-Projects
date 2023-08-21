@@ -20,7 +20,7 @@ The Products page enables tracking of data regarding the leading product sub-cat
 
 ![adwentureworks3](https://github.com/DaneB90/Data-Projects/assets/104319818/a4b45d10-62d6-46d1-b0d5-3b41e44cbe7a)
 
-
+<h3 align="center">The mane Conclusions are:</h3>
 ##Online vs Off-line Sales.
 
 Online orders often tend to yield negative profits, primarily influenced by higher costs, particularly within the product group of bikes.
