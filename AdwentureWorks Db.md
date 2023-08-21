@@ -1,14 +1,14 @@
 # AdwentureWorks Sales Analysis
 
-The task is to present an Sales Analysis for AdwentureWorks company. This work consists of Dashboard and presentation.
+The task is to present a Sales Analysis for AdwentureWorks company. This work consists of Dashboard and presentation.
 
 For that I used SQL queries to extract needed data and Dashboard was built in Looker.
 
-AdwentureWorks Dashboard:
+<h3 align="center">AdwentureWorks Dashboard:</h3>
 
-The Dashboard was built in three mane sections_ Sales, Trends and Product.
+The Dashboard was built in three main sections_ Sales, Trends, and Product.
 
-Sales page has an mane information that represents  Revenue YTD, Revenue vs Cost, Product groupes vs Online/ Offline orders and Returning customers, TOp 4 Product Sub_Categoru Sales by Country
+ The sales page  has mane information that represents  Revenue YTD, Revenue vs Cost, Product groupes vs Online/ Offline orders and Returning customers, TOp 4 Product Sub_Categoru Sales by Country
 
 ![adwentureworks1](https://github.com/DaneB90/Data-Projects/assets/104319818/46ed85d9-472b-46b7-9d2c-1849d1481e4a)
 
@@ -29,7 +29,7 @@ Online orders often tend to yield negative profits, primarily influenced by high
 
 ##Returning Customer vs One-time buy.
 
-There is a discernible negative profit trend associated with one-time purchases, with a significant portion of these purchases originating from online orders, particularly from abroad, specifically Europe.
+There is a discernible negative profit trend associated with one-time purchases, with a significant portion of these purchases originating from online orders, particularly from abroad, specifically in Europe.
 
 ![adwentureworks_returning vs onetime](https://github.com/DaneB90/Data-Projects/assets/104319818/4f85fbaf-a6dc-4d10-be92-39f22ade65d8)
 
@@ -42,5 +42,5 @@ There is a notable trend indicating that the beginning of summer, specifically J
 ![adwentureworks_seasonality real](https://github.com/DaneB90/Data-Projects/assets/104319818/a435d1fa-0d7d-407f-bb70-92f131d99de5)
 
 
-Here is a link to more Detalize presentation to Sales Department:
+<h3 align="center">Here is a link to more Detalize presentation to Sales Department:</h3>
 https://my.visme.co/view/kk0rdq07-m4-s2-selas-department
