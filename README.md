@@ -13,7 +13,7 @@ This dashboard consists of multiple pages, focusing on:
 - GDP trends and contextual insights
 - Dynamic filtering by year, company type, and more
 
-Capture1.JPG
+![Image](https://github.com/user-attachments/assets/1a016f1f-9d1d-4a9f-8a5b-2b44bb982722)
 ![screenshot2](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id2)
 ![screenshot3](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id3)
 
