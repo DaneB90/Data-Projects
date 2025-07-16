@@ -15,7 +15,7 @@ This dashboard consists of multiple pages, focusing on:
 
 ![Image](https://github.com/user-attachments/assets/1a016f1f-9d1d-4a9f-8a5b-2b44bb982722)
 ![Image](https://github.com/user-attachments/assets/89271cfd-f57d-49e1-abd3-df0afb6105a2)
-![screenshot3](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id3)
+![Image](https://github.com/user-attachments/assets/b1e7a3cb-ac25-49f6-9735-3acdef0389f3)
 
 ---
 
