@@ -14,7 +14,7 @@ This dashboard consists of multiple pages, focusing on:
 - Dynamic filtering by year, company type, and more
 
 ![Image](https://github.com/user-attachments/assets/1a016f1f-9d1d-4a9f-8a5b-2b44bb982722)
-![screenshot2](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id2)
+![Image](https://github.com/user-attachments/assets/89271cfd-f57d-49e1-abd3-df0afb6105a2)
 ![screenshot3](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id3)
 
 ---
