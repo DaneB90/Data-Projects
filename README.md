@@ -1,44 +1,76 @@
-# Power BI Business Analysis Dashboard
+# Power BI Cash Flow & Company Insights Dashboard
 
-## Project Overview  
-This Power BI report offers a comprehensive view of Latvian companies' registrations, financial data, and regional business trends. It integrates multiple datasets to analyze company performance, regional development, and economic indicators. The report supports decision-making for government agencies, financial analysts, investors, and regional planners.
+This project showcases an in-depth analysis of Latvian registered companies, their financial performance, and regional trends using Power BI.
 
-## Data Sources and Quality  
-- **Company Registry Data:** Includes registration numbers, legal addresses, registration/deregistration dates, and company types. Data is mostly accurate, with some incomplete address entries.  
-- **Annual Financial Statements:** Revenue, net income, assets, and balance sheet indicators, cleaned to remove zero-value entries.  
-- **City and Region Data:** Enables geographic analysis of companies by city and region.  
-- **Consolidated Financial Table:** Combines balance sheet, profit & loss, and cash flow data.  
-- **GDP Data:** GDP indices by year and industry (1995–2023).  
-- **Churn Rate Table:** Company registration dynamics (registrations vs deregistrations) calculated via BigQuery.
+The dashboard is based on several data sources and allows for interactive filtering and exploration.
 
-Data quality is high, with essential cleaning and transformations applied for reliable analysis.
+<h3 align="center">Power BI Dashboard Preview:</h3>
 
-## Intended Users and Use Cases  
-- **Government:** Regional and industry data for policy and business support decisions.  
-- **Financial Analysts:** Company profitability and liquidity analysis.  
-- **Investors & Business Developers:** Identifying investment opportunities based on revenue forecasts.  
-- **Regional Planners:** Assessing company density and development trends by region.
+This dashboard consists of multiple pages, focusing on:
 
-## Future Improvements  
-- Adding economic indicators like unemployment and average wages.  
-- Including market share and industry trend data.  
-- Incorporating labor market and wage data.  
-- Adding international trade statistics.  
-- Integrating forecasting data for strategic planning.
+- Company registration and churn trends
+- Financial performance by city and industry
+- GDP trends and contextual insights
+- Dynamic filtering by year, company type, and more
 
-## Access and Usage  
-The Power BI report file is hosted on Google Drive due to its size:  
-[Download Power BI Report](https://drive.google.com/file/d/1SiYxlUNPUkb-xQsB3eKxcpXcQ4jH5d_Z/view?usp=drive_link)
-
-### How to view the report:  
-1. Download the `.pbix` file from the link above.  
-2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free Microsoft tool).  
-3. Explore pages, visuals, and slicers to analyze data interactively.
-
-## Screenshots
-
-![Dashboard Screenshot 1](./screenshots/screenshot1.png)  
-![Dashboard Screenshot 2](./screenshots/screenshot2.png)  
-![Dashboard Screenshot 3](./screenshots/screenshot3.png)
+![screenshot1](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id1)
+![screenshot2](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id2)
+![screenshot3](https://github.com/YourUsername/YourRepoName/assets/YourID/your-image-id3)
 
 ---
+
+## 📁 Datasets Used & Quality Assessment
+
+1. **Company Registry Data**  
+   Includes registration numbers, legal addresses, registration/deregistration dates, and company types (SIA, IK, BDR, etc.).  
+   _Quality: Accurate registration data, some incomplete address fields._
+
+2. **Annual Financial Statements**  
+   Covers revenue, net income, assets, and balance indicators.  
+   _Quality: Detailed data with some null values removed._
+
+3. **City Data**  
+   Used for analyzing company distribution by region and geography.
+
+4. **Combined Financial Table**  
+   Aggregated key indicators from balance sheet, profit/loss, and cash flow data.
+
+5. **GDP Dataset**  
+   Contains GDP index values (in 2020 prices) by year and industry from 1995 to 2023.
+
+6. **Churn Rate Table**  
+   Pulled from BigQuery, includes metrics on company dynamics (registrations vs. deletions).
+
+_Overall: High data quality. Some cleaning and transformation steps were applied._
+
+---
+
+## 🧠 Potential Users & Use Cases
+
+- **Public Sector:** Regional/business sector analysis for economic policy and incentives.
+- **Financial Analysts:** Profitability, liquidity, and asset analysis of registered companies.
+- **Investors & Biz Dev:** Discover startups or stable companies for investment.
+- **Regional Planners:** Evaluate company density and trends across Latvia.
+
+---
+
+## 🔍 Recommendations for Added Value
+
+- Include macroeconomic indicators (GDP, unemployment, avg. wages)
+- Add industry-level market share comparisons
+- Integrate employment data and wage statistics
+- Explore international trade data (exports/imports)
+- Incorporate forecast data for future planning
+
+---
+
+## 📊 Dashboard Access
+
+The Power BI file is too large for GitHub and is hosted on Google Drive:  
+➡️ [Download the Power BI Report](https://drive.google.com/file/d/1SiYxlUNPUkb-xQsB3eKxcpXcQ4jH5d_Z/view?usp=drive_link)
+
+---
+
+## ✅ Conclusion
+
+This dashboard provides a multi-angle view of Latvian companies — combining registration, financial, and regional data. It is flexible, extensible, and highly valuable for business intelligence and public decision-making.
